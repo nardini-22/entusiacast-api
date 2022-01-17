@@ -1,6 +1,6 @@
-<img align="center" height="150" width="150" src="https://i.ibb.co/yh7hHZX/Whats-App-Image-2022-01-17-at-13-17-12.jpg" />
+<img align="center" height="350" width="350" src="https://i.ibb.co/yh7hHZX/Whats-App-Image-2022-01-17-at-13-17-12.jpg" />
 
-# FutWorld API #
+# EntusiaCast API #
 
 Essa API está sendo desenvolvida para uso futuro no site oficial do EntusiaCast. Essa API conterá todos os episódios do podcast, com suas respectivas thumbnails, descrição, participantes e o link para se escutar direto no Spotify.
 
