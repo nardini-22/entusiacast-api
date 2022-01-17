@@ -1,4 +1,4 @@
-<img align="center" height="50" width="50" src="https://i.ibb.co/yh7hHZX/Whats-App-Image-2022-01-17-at-13-17-12.jpg" />
+<img align="center" height="150" width="150" src="https://i.ibb.co/yh7hHZX/Whats-App-Image-2022-01-17-at-13-17-12.jpg" />
 
 # FutWorld API #
 
